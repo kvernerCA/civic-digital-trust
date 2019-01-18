@@ -10,11 +10,11 @@ The process is convened by the MaRS Solutions Lab working in partnership with Wa
 
 | Name | Affiliation |
 | :--- | :--- |
-| Aaron Barter | Waterfront TO |
+| Aaron Barter | Waterfront Toronto |
 | Alex Ryan | MaRS |
 | Chris Makris | MaRS |
 | Joe Greenwood | MaRS |
-| Kristina Verner | Waterfront TO |
+| Kristina Verner | Waterfront Toronto |
 | Michel Girard | Centre for International Governance Innovation |
 | Mikayla Zolis | MaRS |
 | Sasha Sud | MaRS |
